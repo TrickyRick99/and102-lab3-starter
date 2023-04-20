@@ -5,9 +5,9 @@ Time spent: 10 hours spent in total
 ## Required Features
 
 The following **required** functionality is completed:
-- [x]Live data is loaded from the NY Times API
-- [x]Books are displayed using a RecyclerView
-- [x]Book cover images are downloaded and displayed using Glide
+- [x] Live data is loaded from the NY Times API
+- [x] Books are displayed using a RecyclerView
+- [x] Book cover images are downloaded and displayed using Glide
 
 The following **additional** features are implemented:
 - [ ] View elements are styled in the .xml files
