@@ -16,8 +16,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://i.ibb.co/9WpMCNj/New-York-Times-Test.gif" alt="New-York-Times-Test" border="0">
-
+<img src="https://i.ibb.co/9G1Wg89/New-York-Times-Test.gif" alt="New-York-Times-Test" border="0">
 ## Notes
 
 The main challenge was linking the API to the functions so it can fetch the data.
