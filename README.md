@@ -16,9 +16,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.screentogif.com/NYTimesTest.gif' title='NY Times' width='' alt='Video Walkthrough' />
-
-<img src="https://i.ibb.co/wdJj8k2/NYTimes-Test.gif" alt="NYTimes-Test" border="0">
+<img src="https://i.ibb.co/9WpMCNj/New-York-Times-Test.gif" alt="New-York-Times-Test" border="0">
 
 ## Notes
 
